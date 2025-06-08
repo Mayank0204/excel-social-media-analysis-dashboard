@@ -15,6 +15,6 @@ This project is an interactive Excel dashboard analyzing social media usage patt
 ![Dashboard Preview](Social_Media_Addiction_Excel_Project.png)
 
 ## 📁 File
-- `Social_Media_Analysis_Dashboard.xlsx`
+- `Students_Social_Media_Addiction.xlsx`
 
 Feel free to explore and suggest improvements!
